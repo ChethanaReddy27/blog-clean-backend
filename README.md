@@ -2,7 +2,7 @@
 
 A secure and scalable backend system for the BlogSphere application built using Node.js, Express.js, and MongoDB. The backend handles authentication, article management, authorization, image uploads, and protected API communication.
 
-# Project Accomplishments
+# Project Accomplishments.
 Built RESTful APIs using Express.js.
 Connected MongoDB using Mongoose ODM.
 Implemented JWT-based authentication and authorization.
